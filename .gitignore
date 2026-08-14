@@ -1,0 +1,9 @@
+# Local reference material and extraction artifacts
+Ghostlink_official_source.pdf
+tmp/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
